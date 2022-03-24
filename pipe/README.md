@@ -1,0 +1,1 @@
+Esegui con `./words.sh | ./double.sh | ./triple.sh`
